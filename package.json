@@ -1,0 +1,24 @@
+{
+  "name": "gan-city-api",
+  "version": "1.0.0",
+  "description": "Gan Integrity Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorreboucas/gan-city-api.git"
+  },
+  "author": "Hector Rebouças",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorreboucas/gan-city-api/issues"
+  },
+  "homepage": "https://github.com/hectorreboucas/gan-city-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid4": "^2.0.3"
+  },
+  "devDependencies": {}
+}
